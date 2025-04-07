@@ -33,3 +33,4 @@ git clone https://github.com/kapil2211/formi.git
 cd formi
 pip install -r requirements.txt
 uvicorn main:app --reload
+after cloning :- visit https://localhost:8000/docs 
